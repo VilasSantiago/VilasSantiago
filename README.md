@@ -1,7 +1,6 @@
 # Hi! I'm Santiago Vilas
-🎓 **Computer Science Student** | 💻 **Passionate about Software Development**  
+ 💻 **Passionate about Software Development**  
 
-## About Me  
 I'm a Computer Science student 🎓 with a strong interest in software development and web technologies. I enjoy building scalable and efficient applications while continuously learning new technologies.  
 
 ## Tech Stack  
